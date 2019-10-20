@@ -7,7 +7,7 @@ import javax.jms.JMSException;
 import javax.jms.TextMessage;
 
 /**
- * 主题 生产者
+ * 主题 消费者
  * Program Name: activemq
  * Created by yanlp on 2019-10-19
  *
